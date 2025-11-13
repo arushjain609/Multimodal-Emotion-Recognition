@@ -77,8 +77,3 @@ The notebook will:
 Indian Institute of Technology, Guwahati  
 
 ---
-
-## License
-This project is released under the **MIT License**.
-
----
